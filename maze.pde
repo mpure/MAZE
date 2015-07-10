@@ -1,3 +1,4 @@
+/* @pjs preload="maze.jpg"; */
 PImage img;
 int ballx,bally;
 boolean 
